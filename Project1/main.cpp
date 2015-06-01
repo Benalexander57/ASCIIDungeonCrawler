@@ -8,6 +8,7 @@
 int main()
 {
 	GameLoop gameLoop;
+	gameLoop.initialiseGame();
 	gameLoop.playGame();
 
 	system("PAUSE");

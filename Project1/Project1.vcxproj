@@ -71,13 +71,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameLoop.h" />
-    <ClInclude Include="Level.h" />
+    <ClInclude Include="Map.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GameLoop.cpp" />
-    <ClCompile Include="Level.cpp" />
+    <ClCompile Include="Map.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="Player.cpp" />
